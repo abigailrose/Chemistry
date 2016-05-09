@@ -60,6 +60,6 @@ reactant_total = reactant_array.inject(:*)
 product_total = product_array.inject(:*)
 
 k = (product_total/reactant_total)
-keq = k.round(3)
+keq = k.round(4)
 
 puts "Equilibrium constant K is #{keq}"
