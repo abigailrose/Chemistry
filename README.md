@@ -9,7 +9,9 @@ These scripts are designed to be run natively from the command line. To do this,
 
 Windows:
 Windows does not have native support for Ruby
+
 https://www.ruby-lang.org/en/documentation/installation/
+
 type ruby *script*.rb in the command line
 
 Mac:
