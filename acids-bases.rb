@@ -162,7 +162,7 @@ if calc_type == 1
 			end
 			
 			#calculate pOH
-			pOH = -(Math.log10(oh))
+			pOH = -1 * (Math.log10(oh))
 			
 			#return output to user
 			puts "The pOH is #{pOH}"
